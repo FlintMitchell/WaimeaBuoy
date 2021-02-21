@@ -7,12 +7,19 @@ https://www.ndbc.noaa.gov/station_page.php?station=51201
 Downloaded data from previous website for years 2007-2019. 2004-2006 recorded less variables and therefore needed to be read differently.
 
 Plenty of fun things to do here... 
+
 Clearly from results, only a portion of the data was collected/analyzed, need to check this out
+
 Change x axis from datapoints to date
+
 Wavelet analysis?
+
 Fourier Transform?
+
 Model the waveheights of future years?
+
 Can add the date from the original txt file to the array containing the data
+
 Other available information in the data that I didn't use (from NDBC website):
 
 > WDIR	Wind direction (the direction the wind is coming from in degrees clockwise from true N) during the same period used for WSPD. 
