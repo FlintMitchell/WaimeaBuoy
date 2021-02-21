@@ -1,7 +1,7 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
-# My first python program in a long while, aimed at re-establishing
+# My first python program in a while, aimed at re-establishing
 # a couple python and signal processing concepts in my mind.
 # Before starting I will use pyenv to create a python environment for the most recent python version
 # and I will use virtualenv to create this project in it's own virtual environment.
